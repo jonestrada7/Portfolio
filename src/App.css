@@ -1,12 +1,17 @@
+* {
+  scroll-behavior: smooth;
+}
+
 .App {
   text-align: center;
+  font-family: 'Montserrat';
 }
 
 .App-logo {
   height: 40vmin;
 }
 
-.App-header {
+/* .App-header {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -15,8 +20,29 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+} */
+
+p {
+  margin: 2px;
 }
 
-.App-link {
-  color: #09d3ac;
+footer {
+  height: 40px;
+  background-color: #100E5E;
+  font-family: 'Montserrat', bold;
+  font-size: 16px;
+  padding-top: 24px;
+}
+
+footer a {
+  color: #94ABD8;
+  text-decoration: none;
+  transition: 0.2s ease-in-out;
+  margin: auto;
+  padding: auto;
+  display: block;
+}
+
+footer a:hover {
+  color: #B7FDDF
 }

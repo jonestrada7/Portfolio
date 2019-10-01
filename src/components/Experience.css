@@ -1,0 +1,33 @@
+.experience {
+    margin-top: 10px;
+    padding: 70px;
+    overflow: auto;
+}
+
+.experience-hr {
+    width: 275px;
+    border: 2px solid #6250DC;
+    margin-left: 100px;
+}
+
+.content {
+    display: flex;
+    margin: 50px 50px;
+}
+
+.text {
+    flex: 50%;
+    text-align: right;
+    line-height: 1.5;
+}
+
+img {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+}
+
+.image {
+    flex: 50%;
+    padding: 30px;
+}

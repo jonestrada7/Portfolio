@@ -1,0 +1,41 @@
+.about {
+    margin-top: 0px;
+    padding: 70px;
+    overflow: auto;
+}
+
+.about-hr {
+    width: 150px;
+    border: 2px solid #6250DC;
+    margin-left: 100px;
+}
+
+h1 {
+    font-size: 42px;
+    margin: 0px;
+    padding-bottom: 5px;
+    text-align: left;
+    margin-left: 100px;
+}
+
+.content {
+    display: flex;
+    margin: 50px 50px;
+}
+
+.text {
+    flex: 50%;
+    text-align: right;
+    line-height: 1.5;
+}
+
+img {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+}
+
+.image {
+    flex: 50%;
+    padding: 30px;
+}
