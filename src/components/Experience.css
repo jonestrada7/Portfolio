@@ -2,6 +2,7 @@
     margin-top: 10px;
     padding: 70px;
     overflow: auto;
+    background-color: #E7EFFA;
 }
 
 .experience-hr {
@@ -15,16 +16,30 @@
     margin: 50px 50px;
 }
 
-.text {
-    flex: 50%;
-    text-align: right;
-    line-height: 1.5;
+.list-header {
+    font-weight: bold;
+    font-size: 30px;
+    color: #100E5E;
 }
 
-img {
-    width: 350px;
-    height: 350px;
-    border-radius: 50%;
+.skill {
+    flex: 50%;
+    list-style-type: disc;
+    display: grid;
+    overflow: visible;
+}
+
+.exp-li {
+    font-size: 25px;;
+    padding-top: 8px;;
+    margin-left: 10px;
+}
+
+.experience-text {
+    flex: 50%;
+    padding-top: 50px;
+    text-align: left;
+    margin-left: 150px;
 }
 
 .image {

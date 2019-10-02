@@ -1,6 +1,5 @@
 import React from "react"
 import "./Experience.css"
-// import Button from "./button.js"
 import "aos/dist/aos.css";
 
 class Experience extends React.Component {
@@ -16,8 +15,26 @@ class Experience extends React.Component {
             </div>
             
             <div className='content'>
-                <div className='text' data-aos='fade-down' data-aos-duration='900'>
-                    <p> Nothing here yet ¯\_(ツ)_/¯</p>
+                <div className='experience-text' data-aos='fade-right' data-aos-duration='900'>
+                    <p className='list-header'>Languages:</p>
+                    <br/>
+                    <ul className='skill'>
+                        <li className='exp-li'>Python</li>
+                        <li className='exp-li'>C++</li>
+                        <li className='exp-li'>Javascript</li>
+                        <li className='exp-li'>HTML</li>
+                        <li className='exp-li'>CSS</li>
+                    </ul>
+                </div>
+                <div className='experience-text' data-aos='fade-left' data-aos-duration='900'>
+                    <p className='list-header'>Technologies:</p>
+                    <br/>
+                    <ul className='skill'>
+                        <li className='exp-li'>NodeJS</li>
+                        <li className='exp-li'>ReactJS</li>
+                        <li className='exp-li'>Express</li>
+                        <li className='exp-li'>MongoDB</li>
+                    </ul>
                 </div>
             </div>
             
