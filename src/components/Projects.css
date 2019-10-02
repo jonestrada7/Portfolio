@@ -13,6 +13,13 @@
 .content {
     display: flex;
     margin: 50px 50px;
+    position: relative;
+    height: 100%;
+    padding: 10px;
+    overflow: hidden;
+    line-height: 1.25;
+    justify-items: center;
+    justify-content: space-around;
 }
 
 .text {
@@ -21,13 +28,109 @@
     line-height: 1.5;
 }
 
-img {
-    width: 350px;
-    height: 350px;
-    border-radius: 50%;
+.gitimg {
+    height: 80px;
+    width: 80px;
 }
 
-.image {
-    flex: 50%;
-    padding: 30px;
+.proj-description {
+    font-size: 15px;
+}
+
+.project-box {
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.project-base {
+    position: relative;
+    display: block;
+    height: 100%;
+    padding: 10px;
+    overflow: hidden;
+    font-size: 14px;
+    line-height: 1.25;
+    justify-items: center;
+}
+
+.image-box {
+    margin: auto;
+}
+
+.proj-img {
+    width: 40%;
+    height: auto;
+    padding: auto;
+    margin: 10px;
+    border-radius: 20%;
+}
+
+.linkbot {
+    width: 50%;
+    margin-top: 30px;
+}
+
+.nodesports {
+    width: 90%;
+    margin-top: 60px;
+}
+
+.billsplitlogo {
+    width: 35%;
+    margin-bottom: 180px;
+}
+
+.billsplitexample {
+    width: 50%;
+    margin-top: 40px;
+    border-radius: 10%;
+}
+
+.proj-content {
+    background-color: #C8DAF6;
+    color: #2c003e;
+    max-width: 100%;
+    width: 350px;;
+    margin: 10px 20px;
+    padding: 0px 10px;
+    height: auto;
+    min-height: 300px;      
+    text-align: center;
+    position: relative;
+    display: block;
+    text-decoration: none;
+    opacity: 1;
+    border-radius: 20%;
+}
+
+.overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #94ABD8;
+    overflow: hidden;
+    width: 100%;
+    height: 0;
+    transition: 0.5s ease;
+    border-radius: 20%;
+}
+
+.proj-content:hover .overlay{
+    height: 30%;
+}
+
+.github-overlay {
+    color: #100E5E;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+.github-desc {
+    font-size: 17px;
+    margin-bottom: 15px;
 }
