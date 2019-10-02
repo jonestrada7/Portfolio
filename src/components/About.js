@@ -18,11 +18,26 @@ class About extends React.Component {
             </div>
             
             <div className='content'>
-                <div className='text' data-aos='fade-down' data-aos-duration='900'>
-                    <p> Hello, testing testing.</p>
+                <div className='text-box' data-aos='fade-down' data-aos-duration='900'>
+                    <p>Hello! My name is Jonathan. I'm currently a second-year undergraduate student pursuing a B.S. in Computer Science at
+                        UC Irvine. I like to call myself an analytic person, always paying attention to 
+                        details and constantly finding ways to improve both my technological and innovative skills. I intend to apply the concepts I've learned to expand my vision and improve the world, even if it takes one bit or byte at a time.
+                    </p>
+                    <br/>
+                    <p> I've listed a couple of my endeavors and projects below, so feel free to take a look!
+                    </p> 
+                    <br/>
+                    <div className='resume-box' data-aos='fade-left' data-aos-duration='750'>
+                        <a href={resume} className="resume-link" target="_blank" rel="noopener noreferrer"><b>Resume</b></a>
+                    </div>
                 </div>
+                
+                <div className='img-box'> 
+                    <img className='img-profile' data-aos='fade-left' data-aos-duration='750' src={profilePic} alt=''></img>
+                </div> 
+                 
             </div>
-            
+                      
         </div>
     }
 }
