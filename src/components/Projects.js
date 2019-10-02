@@ -16,7 +16,7 @@ class Projects extends React.Component {
             
             <div className='content'>
                 <div className='text' data-aos='fade-down' data-aos-duration='900'>
-                    <p> Hello, testing testing.</p>
+                    <p>Nothing here yet ¯\_(ツ)_/¯</p>
                 </div>
             </div>
         </div>
