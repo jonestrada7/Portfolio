@@ -29,11 +29,11 @@ class Navigation extends React.Component {
         var fixedPos = this.state.scrollPos > 0;
         
         return <div className={fixedPos ? 'nav-bar' : ''}>
-            <ul>
-                <li><a className="link" href="#about">About</a></li> 
-                <li><a className="link" href="#experience">Experience</a></li> 
-                <li><a className="link" href="#projects">Projects</a></li> 
-                <li><a className="link" href="#contact">Contact</a></li> 
+            <ul className='nav-ul'>
+                <li className='nav-li'><a className="link" href="#about">About</a></li> 
+                <li className='nav-li'><a className="link" href="#experience">Experience</a></li> 
+                <li className='nav-li'><a className="link" href="#projects">Projects</a></li> 
+                <li className='nav-li'><a className="link" href="#contact">Contact</a></li> 
             </ul>
         </div>
     }
