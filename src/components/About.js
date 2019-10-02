@@ -28,7 +28,7 @@ class About extends React.Component {
                     </p> 
                     <br/>
                     <div className='resume-box' data-aos='fade-left' data-aos-duration='750'>
-                        <a href={resume} className="resume-link" target="_blank" rel="noopener noreferrer"><b>Resume</b></a>
+                        <a href={resume} className="resume-link" target="_blank" rel="noopener noreferrer">Resume</a>
                     </div>
                 </div>
                 

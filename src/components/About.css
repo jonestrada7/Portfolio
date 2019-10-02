@@ -1,6 +1,7 @@
 .about {
     margin-top: 0px;
     padding: 70px;
+    padding-bottom: 0px;
     overflow: auto;
 }
 
