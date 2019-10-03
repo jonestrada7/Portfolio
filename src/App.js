@@ -17,10 +17,17 @@ function App() {
     <div className="App">
       <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'></link>
       <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-      <header className="App-header">
-        
-      </header>
       <Navigation></Navigation>
+      
+      <div className="intro">
+        <h2 className="intro-text1">Hello, my name is</h2>
+        <h2 className="intro-text2">Jonathan Estrada.</h2>
+        <h2 className="intro-text3">I thrive on technology.</h2>
+        <div className='about-button' data-aos='fade-left' data-aos-duration='750'>
+          <a href='#about' className="about-link">Learn more about me!</a>
+        </div>
+      </div>
+      
       <About></About>
       <Experience></Experience>
       <Projects></Projects>

@@ -11,16 +11,64 @@
   height: 40vmin;
 }
 
-/* .App-header {
-  background-color: #282c34;
+.intro {
+  background-image: linear-gradient(to bottom, #ECF2FA, #AECFF9);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-} */
+  color: black;
+} 
+
+.intro-text1 {
+  font-size: 25px;
+  margin-top: 100px;
+  margin-left: 300px;
+  margin-bottom: 10px;
+  text-align: left;
+  color: #100E5E;
+}
+
+.intro-text2 {
+  font-size: 80px;
+  margin-top: 0px;
+  margin-left: 300px;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.intro-text3 {
+  color: #100E5E;
+  font-size: 60px;
+  margin-top: 0px;
+  margin-left: 300px;
+  margin-right: 300px;
+  text-align: left;
+}
+
+.about-button {
+  flex: 50%;
+  text-align: left;
+  margin-top: 30px;
+  margin-left: 300px;
+}
+
+.about-link {
+  color: #100E5E;
+  text-decoration: none;
+  font-size: 25px;
+  background-color: transparent;
+  padding: 20px;
+  transition: background 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+  border: 2px solid #100E5E;
+  border-radius: 50px;
+}
+
+.about-link:hover {
+  background-color: #100E5E;
+  border-color: #100E5E;
+  color: #FFFFFF;
+}
 
 p {
   margin: 2px;
