@@ -2,7 +2,7 @@
   "name": "jon_portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jonestrada7.github.io/Portfolio",
+  "homepage": "https://jonestrada7.github.io/portfolio",
   "dependencies": {
     "aos": "^2.3.4",
     "gh-pages": "^2.1.1",
