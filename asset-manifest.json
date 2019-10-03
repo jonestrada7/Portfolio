@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.f3c6ec63.chunk.css",
+    "main.js": "/Portfolio/static/js/main.e3175c93.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.e3175c93.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.4cefab14.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.4cefab14.js.map",
+    "static/css/2.7abef457.chunk.css": "/Portfolio/static/css/2.7abef457.chunk.css",
+    "static/js/2.c20f09ec.chunk.js": "/Portfolio/static/js/2.c20f09ec.chunk.js",
+    "static/js/2.c20f09ec.chunk.js.map": "/Portfolio/static/js/2.c20f09ec.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.fc0750fb5d92f88d83e249dee2a1c3c3.js": "/Portfolio/precache-manifest.fc0750fb5d92f88d83e249dee2a1c3c3.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/2.7abef457.chunk.css.map": "/Portfolio/static/css/2.7abef457.chunk.css.map",
+    "static/css/main.f3c6ec63.chunk.css.map": "/Portfolio/static/css/main.f3c6ec63.chunk.css.map",
+    "static/media/BillSplitExample.jpg": "/Portfolio/static/media/BillSplitExample.defdf31e.jpg",
+    "static/media/BillSplitLogo.png": "/Portfolio/static/media/BillSplitLogo.a5f6bdb7.png",
+    "static/media/JElogo2.png": "/Portfolio/static/media/JElogo2.85dbabdd.png",
+    "static/media/LinkbotImg1.jpg": "/Portfolio/static/media/LinkbotImg1.3fc09b2f.jpg",
+    "static/media/LinkbotImg2.jpg": "/Portfolio/static/media/LinkbotImg2.4dffa257.jpg",
+    "static/media/Resume.pdf": "/Portfolio/static/media/Resume.cd8e8efb.pdf",
+    "static/media/github.svg": "/Portfolio/static/media/github.b53ff55e.svg",
+    "static/media/node_sports.jpg": "/Portfolio/static/media/node_sports.dde5bcd7.jpg",
+    "static/media/profilePic.jpg": "/Portfolio/static/media/profilePic.2ccdcdf7.jpg"
+  }
+}
