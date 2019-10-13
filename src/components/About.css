@@ -46,8 +46,8 @@ h1 {
 
 .img-profile {
     display: block;
-    width: 280px;
-    height: 350px;
+    width: 260px;
+    height: auto;
     border-radius: 50%;
     padding-left: 100px;       /* Affects shape of border */
 }
