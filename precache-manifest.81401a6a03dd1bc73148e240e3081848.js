@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b9c82abe7f383f1668d6f86378b6784b",
+    "revision": "1b8d02d0239863221e0410018b32880c",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "297852ac8c1e55b6de84",
+    "revision": "f71b73f52b8444b744c3",
     "url": "/portfolio/static/css/2.7abef457.chunk.css"
   },
   {
-    "revision": "c3f85b2371d31aa451ab",
-    "url": "/portfolio/static/css/main.ff27df12.chunk.css"
+    "revision": "8f3c5cd0360cee02f165",
+    "url": "/portfolio/static/css/main.09114432.chunk.css"
   },
   {
-    "revision": "297852ac8c1e55b6de84",
-    "url": "/portfolio/static/js/2.c20f09ec.chunk.js"
+    "revision": "f71b73f52b8444b744c3",
+    "url": "/portfolio/static/js/2.50c363d8.chunk.js"
   },
   {
-    "revision": "c3f85b2371d31aa451ab",
-    "url": "/portfolio/static/js/main.5ac02f1e.chunk.js"
+    "revision": "8f3c5cd0360cee02f165",
+    "url": "/portfolio/static/js/main.c50d57bc.chunk.js"
   },
   {
     "revision": "fc9c158819850951ef83",
@@ -32,20 +32,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/BillSplitLogo.a5f6bdb7.png"
   },
   {
-    "revision": "85dbabdd827e217ba866ae9c447e1d14",
-    "url": "/portfolio/static/media/JElogo2.85dbabdd.png"
+    "revision": "6662e369d2a07a74b6a4b2ae17e39776",
+    "url": "/portfolio/static/media/DigitImg.6662e369.png"
   },
   {
-    "revision": "3fc09b2faa2176bf5ac255e23e63e956",
-    "url": "/portfolio/static/media/LinkbotImg1.3fc09b2f.jpg"
+    "revision": "85dbabdd827e217ba866ae9c447e1d14",
+    "url": "/portfolio/static/media/JElogo2.85dbabdd.png"
   },
   {
     "revision": "4dffa2570d77693fcbcf8730387f0184",
     "url": "/portfolio/static/media/LinkbotImg2.4dffa257.jpg"
   },
   {
-    "revision": "e4c456369c280a5398dd4a0497d999af",
-    "url": "/portfolio/static/media/Resume.e4c45636.pdf"
+    "revision": "1c49c0aa08ba06ffe505707729042535",
+    "url": "/portfolio/static/media/Resume.1c49c0aa.pdf"
   },
   {
     "revision": "b53ff55e09a092f9f0cbbf74af01b715",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dde5bcd706d21bbb47609c465243df45",
     "url": "/portfolio/static/media/node_sports.dde5bcd7.jpg"
+  },
+  {
+    "revision": "c81950862fb643b1cc59927b448550c7",
+    "url": "/portfolio/static/media/nsc_img.c8195086.JPG"
   },
   {
     "revision": "2ccdcdf7d65d4350d031f60a7ce88ce8",
