@@ -34,6 +34,8 @@ class Experience extends React.Component {
                         <li className='exp-li'>ReactJS</li>
                         <li className='exp-li'>Express</li>
                         <li className='exp-li'>MongoDB</li>
+                        <li className='exp_li'>Tensorflow</li>
+                        <li className='exp_li'>Keras</li>
                     </ul>
                 </div>
             </div>
