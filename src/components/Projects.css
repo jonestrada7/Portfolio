@@ -28,6 +28,11 @@
     line-height: 1.5;
 }
 
+#nsc-h {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
 .gitimg {
     height: 80px;
     width: 80px;
@@ -85,6 +90,15 @@
     width: 50%;
     margin-top: 40px;
     border-radius: 10%;
+}
+
+.digitimg {
+    width: 95%;
+}
+
+.nsc-img {
+    width: 60%;
+    border-radius: 5%;
 }
 
 .proj-content {
