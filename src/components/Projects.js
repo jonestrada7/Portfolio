@@ -6,7 +6,7 @@ import NodeSportsImg from "../images/node_sports.jpg"
 import BillSplitLogo from "../images/BillSplitLogo.png"
 import BillSplitExample from "../images/BillSplitExample.jpg"
 import DigitImg from "../images/DigitImg.png"
-import NscImg from "../images/nsc_img.JPG"
+import NscImg from "../images/nsc_img.jpg"
 import "aos/dist/aos.css"
 
 class Projects extends React.Component {
