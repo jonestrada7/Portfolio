@@ -131,7 +131,7 @@ class Projects extends React.Component {
                     <div className='project-base'>
                         <div className='image-box'>
                             <h2 id='nsc-h'>FindMyBoba</h2>
-                            <p className='proj-description'>A simple <b>web-app</b> that will determine a user's current location and provide a random boba place within a 10-mile radius within seconds. Built using <b>Javascript, HTML, and CSS</b> in <b>Node.js</b> with the <b>Express</b> framework for back-end and <b>React.js</b> for front-end. Utilized the <b>Yelp Fusion API</b> to generate results for reputable boba places.</p>
+                            <p className='proj-description'>A simple <b>web-app</b> that will determine a user's current location and display a random boba place within a 10-mile radius. Built using <b>Javascript, HTML, and CSS</b> in <b>Node.js</b> with the <b>Express</b> framework for back-end and <b>React.js</b> for front-end. Utilized the <b>Yelp Fusion API</b> to generate results for reputable boba places.</p>
                             <img src={bobaImg} alt="" className='proj-img boba-img'></img>
                         </div> 
                     </div>
