@@ -69,7 +69,7 @@ class Projects extends React.Component {
                     <div className='project-base'>
                         <div className='image-box'>
                             <h2>BillSplit</h2>
-                            <p className='proj-description'>Collaborated and helped design a mobile Android app for HackSC that splits a large party’s bill by scanning a receipt. Used <b>Taggun Optical Character Recognition</b> to recognize and read prices from receipt, <b>Twilio</b> to send automated text messages to send bill information, and <b>Paypal’s API</b> to allow bill recipients to pay securely.</p>
+                            <p className='proj-description'>Collaborated and helped design a mobile Android app for HackSC that splits a large party’s bill by scanning a receipt. Used <b>Taggun Optical Character Recognition</b> to recognize and read prices from receipt, <b>Twilio</b> to send automated text messages to send bill information, and <b>Paypal’s API</b> to allow bill recipients to pay securely. </p>
                             <img src={BillSplitLogo} alt="" className='proj-img billsplitlogo'></img>
                             <img src={BillSplitExample} alt="" className='proj-img billsplitexample'></img>
                         </div> 
