@@ -20,10 +20,11 @@ class Experience extends React.Component {
                     <br/>
                     <ul className='skill'>
                         <li className='exp-li'>Python</li>
-                        <li className='exp-li'>C++</li>
+                        <li className='exp-li'>C / C++</li>
                         <li className='exp-li'>Javascript</li>
                         <li className='exp-li'>HTML</li>
                         <li className='exp-li'>CSS</li>
+                        <li className='exp-li'>SQL</li>
                     </ul>
                 </div>
                 <div className='experience-text' data-aos='fade-left' data-aos-duration='900'>
