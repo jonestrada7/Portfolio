@@ -2,13 +2,13 @@ import React from 'react'
 import "./Projects.css"
 import githubImg from "../images/github.svg"
 import LinkbotImg2 from "../images/LinkbotImg2.jpg"
-import NodeSportsImg from "../images/node_sports.jpg"
+import CalendarImg from "../images/CalendarImg.png"
 import BillSplitLogo from "../images/BillSplitLogo.png"
 import BillSplitExample from "../images/BillSplitExample.jpg"
 import DigitImg from "../images/DigitImg.png"
 import NscImg from "../images/nsc_img.jpg"
 import bobaImg from "../images/findmyboba.jpg"
-import WebsiteImg from "../images/WebsiteImg.png"
+import WebsiteImg from "../images/WebsiteIcon.png"
 import "aos/dist/aos.css"
 
 class Projects extends React.Component {
@@ -49,9 +49,10 @@ class Projects extends React.Component {
                         
                     <div className='project-base'>
                         <div className='image-box'>
-                            <h2>Node Sports</h2>
-                            <p className='proj-description'>Improved on and designed a visual calendar, 
-                            used <b>PHP, SQL queries via jQuery/Ajax</b> to retrieve event information from <b>MySQL</b> database</p>
+                            <h2>UCI Circle K Interactive Calendar</h2>
+                            <p className='proj-description'>Improved on and designed a visual calendar for UCI's Circle K club as part of 
+                                the Technology Internship Program. Used <b>PHP and SQL queries via jQuery/Ajax</b> to retrieve event 
+                                information from a <b>MySQL</b> database and created tooltip popups next to the mouse upon hovering over events. </p>
                             <img src={CalendarImg} alt="" className='proj-img UCICKICalendar'></img>
                         </div>
                     </div>
