@@ -8,6 +8,7 @@ import BillSplitExample from "../images/BillSplitExample.jpg"
 import DigitImg from "../images/DigitImg.png"
 import NscImg from "../images/nsc_img.jpg"
 import bobaImg from "../images/findmyboba.jpg"
+import WebsiteImg from "../images/WebsiteImg.png"
 import "aos/dist/aos.css"
 
 class Projects extends React.Component {
@@ -43,21 +44,22 @@ class Projects extends React.Component {
                     
                 </a>
                 
-                <a target='_blank' href='https://github.com/jonestrada7/node-sports'
+                <a target='_blank' href='https://www.ucicirclek.com/calendar/'
                     rel='noopener noreferrer' data-aos='fade-up' data-aos-duration='750' className='proj-content'>
                         
                     <div className='project-base'>
                         <div className='image-box'>
                             <h2>Node Sports</h2>
-                            <p className='proj-description'>A clean and simple website template built using <b>NodeJS (HTML, CSS, Javascript)</b>. Reinforcing mainly front-end knowledge as well as simple back-end procedures that include handling and manipulating http requests via URLs and simple data manipulation.</p>
-                            <img src={NodeSportsImg} alt="" className='proj-img nodesports'></img>
+                            <p className='proj-description'>Improved on and designed a visual calendar, 
+                            used <b>PHP, SQL queries via jQuery/Ajax</b> to retrieve event information from <b>MySQL</b> database</p>
+                            <img src={CalendarImg} alt="" className='proj-img UCICKICalendar'></img>
                         </div>
                     </div>
                     
                     <div className='overlay'>
                         <div className='github-overlay'>
-                            <p className='github-desc'>Click to see the code!</p> 
-                            <img src={githubImg} alt='Octocat' className='gitimg'></img>
+                            <p className='github-desc'>Click to view the finished product!</p> 
+                            <img src={WebsiteImg} alt='Octocat' className='gitimg'></img>
                         </div>
                     </div>
                     

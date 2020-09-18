@@ -15,7 +15,7 @@ class Contact extends React.Component {
 
             <div className='content'>
                 <div className='text' data-aos='fade-right' data-aos-duration='700'>
-                    <p> I am currently in search of a <b>Software Engineering</b> or <b>Data Science</b> internship,
+                    <p> I am currently in search of a <b>Software Engineering</b> or <b>Artificial Intelligence</b> internship,
                         so feel free to reach out to me!
                     </p>
                 </div>

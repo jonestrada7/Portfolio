@@ -19,7 +19,7 @@ class About extends React.Component {
             
             <div className='content'>
                 <div className='text-box' data-aos='fade-down' data-aos-duration='900'>
-                    <p>Hi! My name is Jonathan. I'm an incoming third-year undergraduate student pursuing a B.S. in Computer Science at
+                    <p>Hi! My name is Jonathan. I'm a third-year undergraduate student pursuing a B.S. in Computer Science at
                         UC Irvine with a specialty in <b>Intelligent Systems</b> and a minor in Management. I'm a generally analytic person, always paying attention to details and constantly striving to find ways to improve both my technological and innovative skills. I intend to use my abilities to expand my visions and improve the world, one bit or byte at a time.
                     </p>
                     <br/>
